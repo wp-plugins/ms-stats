@@ -18,17 +18,13 @@ Shortcodes are used to display the site and user totals.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `ms-stats` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. To display statistics add either [ms-site-count] or [ms-user-count] in your posts or pages.
 
 == Screenshots ==
 
-1. Plugin displays the possible shortcodes a user can use and their outputs.
+1. Plugin displays multisite statistics based on shortcodes a user inserts on to pages or posts.
 
 == Changelog ==
 
