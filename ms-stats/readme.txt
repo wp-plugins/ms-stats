@@ -1,6 +1,5 @@
-=== MS-Stats ===
+=== MS Stats ===
 Contributors: orangebubble
-Donate link: http://orangebubble.co.uk/
 Tags: multisite, total sites, total users, stats
 Requires at least: 3.0.1
 Tested up to: 3.4.2
@@ -29,7 +28,7 @@ e.g.
 
 == Screenshots ==
 
-1. screenshot-1 displays the possible shortcodes a user can use and their outputs.2. This is the second screen shot
+1. Plugin displays the possible shortcodes a user can use and their outputs.
 
 == Changelog ==
 
